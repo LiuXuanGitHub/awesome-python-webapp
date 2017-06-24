@@ -1,0 +1,2 @@
+# LICENSE
+*Python* no LICENSE
